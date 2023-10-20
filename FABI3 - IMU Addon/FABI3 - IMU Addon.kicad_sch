@@ -676,6 +676,10 @@
     (effects (font (size 1.27 1.27)) (justify left bottom))
     (uuid 1b0c7128-b7a7-42c2-bc4f-ed92456f47a6)
   )
+  (text "300mA" (at 30.48 93.98 0)
+    (effects (font (size 1.27 1.27)) (justify left bottom))
+    (uuid 3e7af0cc-8243-4728-bda1-8719780ac95c)
+  )
 
   (label "SCL" (at 52.07 62.23 0) (fields_autoplaced)
     (effects (font (size 1.27 1.27)) (justify left bottom))
