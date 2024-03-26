@@ -1,4 +1,0 @@
-(fp_lib_table
-  (version 7)
-  (lib (name "ICM-42670-P")(type "KiCad")(uri "${KIPRJMOD}/ICM-42670-P.pretty")(options "")(descr ""))
-)
